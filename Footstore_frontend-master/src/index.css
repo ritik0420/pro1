@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.App {
+  background-color: rgb(245, 245, 245);
+}
+
+.navbar {
+  cursor: pointer;
+  color: chartreuse;
+  background: darkcyan;
+}
+
+.nav {
+  cursor: pointer;
+}
+
+.signup .button,
+.signin .button,
+.profile .button {
+  color: black;
+  background: chartreuse;
+  border: black;
+  border-radius: 50px;
+}
+
+.footer {
+  color: white;
+  background-color: black;
+}
